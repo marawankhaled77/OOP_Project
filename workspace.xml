@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6c7b687-ef36-4364-99d7-d907c2c1a1ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manager.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Passengers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trips.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vehicles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid12860.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid24096.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid24676.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid28008.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid3872.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Managerr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystemFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+    </list>
+    <list id="66786880-6e6f-4ddd-a19f-c13788bff0bd" name="Changes by Lenovo" comment="" />
+    <list id="cde2a569-fb46-4044-81ad-92f88139302c" name="Changes by Yasso" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fKiR1EwCO9abWvZ6Wo20avF6vW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJFramone (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJFramone (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJFramone (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJFramone (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJFramone (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJFramone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SystemFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gui (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.gui (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;app.teamhub.trackedBranches&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/Transport1/trans1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pc/IdeaProjects/Transport/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\IdeaProjects\Transport\src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewJFramone">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Transport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewJFramone (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewJFramone" />
+      <module name="Transport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewJFramone (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewJFramone" />
+      <module name="Transport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewJFramone (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewJFramone" />
+      <module name="Transport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewJFramone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewJFramone" />
+      <module name="Transport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewJFramone" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NewJFramone (3)" />
+        <item itemvalue="Application.NewJFramone (1)" />
+        <item itemvalue="Application.NewJFramone (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c7b687-ef36-4364-99d7-d907c2c1a1ef" name="Changes" comment="" />
+      <created>1713556158603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713556158603</updated>
+      <workItem from="1714592960510" duration="2466000" />
+      <workItem from="1714595461173" duration="6402000" />
+      <workItem from="1714602319989" duration="19000" />
+      <workItem from="1714678206691" duration="6059000" />
+      <workItem from="1714684347974" duration="2000" />
+      <workItem from="1714733411782" duration="8879000" />
+      <workItem from="1714745235894" duration="7000" />
+      <workItem from="1714748006776" duration="5368000" />
+      <workItem from="1714753434724" duration="2231000" />
+      <workItem from="1714755822394" duration="144000" />
+      <workItem from="1714760756661" duration="1990000" />
+      <workItem from="1714765588421" duration="1516000" />
+      <workItem from="1714826175089" duration="8000" />
+      <workItem from="1714837122228" duration="4249000" />
+      <workItem from="1714850014052" duration="7000" />
+      <workItem from="1714850244658" duration="8000" />
+      <workItem from="1714850696050" duration="83000" />
+      <workItem from="1714851570006" duration="244000" />
+      <workItem from="1714852185290" duration="593000" />
+      <workItem from="1714857499564" duration="10000" />
+      <workItem from="1714902296457" duration="7528000" />
+      <workItem from="1714931376515" duration="10040000" />
+      <workItem from="1714946764576" duration="29000" />
+      <workItem from="1714949238216" duration="55000" />
+      <workItem from="1714954089674" duration="1000" />
+      <workItem from="1714955105729" duration="71000" />
+      <workItem from="1714955591271" duration="5000" />
+      <workItem from="1715007774999" duration="13435000" />
+      <workItem from="1715023950349" duration="78000" />
+      <workItem from="1715025374369" duration="83000" />
+      <workItem from="1715033638545" duration="32000" />
+      <workItem from="1715035209194" duration="41000" />
+      <workItem from="1715035329949" duration="35000" />
+      <workItem from="1715096918702" duration="418000" />
+      <workItem from="1715097541063" duration="3369000" />
+      <workItem from="1715100993201" duration="11000" />
+      <workItem from="1715115385042" duration="11000" />
+      <workItem from="1715289051363" duration="17000" />
+      <workItem from="1715357124755" duration="9559000" />
+      <workItem from="1715368517536" duration="3018000" />
+      <workItem from="1715419225437" duration="13918000" />
+      <workItem from="1715443603127" duration="151000" />
+      <workItem from="1715445578402" duration="11883000" />
+      <workItem from="1715461099657" duration="1000" />
+      <workItem from="1715461123997" duration="19000" />
+      <workItem from="1715466468009" duration="67000" />
+      <workItem from="1715472442322" duration="185000" />
+      <workItem from="1715472896285" duration="254000" />
+      <workItem from="1715473303839" duration="8000" />
+      <workItem from="1715531534847" duration="15606000" />
+      <workItem from="1715574541040" duration="4157000" />
+      <workItem from="1715580380934" duration="3990000" />
+      <workItem from="1715596741784" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
